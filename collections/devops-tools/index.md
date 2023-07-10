@@ -39,7 +39,8 @@ items:
  - komodorio/helm-dashboard
  - cloudquery/cloudquery
  - devtron-labs/devtron
- - livecycle/preevy 
+ - livecycle/preevy
+ - openmeterio/openmeter
  
 display_name: DevOps tools
 ---
